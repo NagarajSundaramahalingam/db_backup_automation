@@ -1,0 +1,6 @@
+server_details:
+  server_name: <SERVER NAME>
+  database_name: <DATABASE NAME>
+file_details:
+  backup_file_location: <BACKUP FOLDER>
+  backup_file_name: <BACKUP FILE>
